@@ -155,7 +155,7 @@ Adicionalmente al Jupyter Notebook, deberá grabar un video corto (máximo 5 min
   * Suba el video a YouTube (puede configurarlo como "No listado").
   * Incluya el enlace al video en la primera celda (celda de texto) de su Jupyter Notebook `analisis.ipynb`.
 
-## Referencias
+## 8. Referencias
 
 * Remzi H. Arpaci-Dusseau & Andrea C. Arpaci-Dusseau. *Operating Systems: Three Easy Pieces*.
   * **Capítulo 26**: Threads Intro [[pdf]](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)
