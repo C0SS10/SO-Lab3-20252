@@ -1,5 +1,15 @@
 # Laboratorio 3: Programación Concurrente con Pthreads
 
+# Integrantes:
+
+Esteban Cossio C.C. 1020495759, 
+Julián Agudelo C.C. 1001390863
+
+# Enlace video:
+
+*https://youtu.be/uXY9blozL5M 
+
+
 ## 1. Objetivos
 
 * Aplicar los conceptos teóricos de creación (`pthread_create`) y sincronización (`pthread_join`) de hilos POSIX.
